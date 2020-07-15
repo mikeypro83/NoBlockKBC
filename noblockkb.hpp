@@ -52,6 +52,8 @@
     #include "windows.h"
     #endif
 
+    #include <string>
+
     class cInput    
     {
         public:            
